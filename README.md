@@ -1,2 +1,2 @@
 # Lazy_shopper_v2
-A cool interface to make shopping easy
+A Tinder-like interface for shopping
