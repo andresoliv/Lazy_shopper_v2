@@ -4,15 +4,17 @@
   "description": "A shopping interface for the lazies",
   "main": "./src/index.js",
   "scripts": {
-    "start": "node server/server.js"
+    "start": "node src/server/server.js"
   },
   "author": "Andres",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.14.1",
     "react": "^15.3.2",
-    "react-router": "^3.0.0"
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "react-router": "^3.0.0",
+    "redux-logger": "^2.7.4"
   },
-  "devDependencies": {
-    
-  }
+  "devDependencies": {}
 }
