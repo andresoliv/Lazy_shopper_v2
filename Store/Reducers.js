@@ -2,7 +2,7 @@ import { combineReducers } from 'redux';
 
 import {
   appReducer as app,
-} from '../reducers/index.js';
+} from '../reducers/app.reducer.js';
 
 const rootReducer = combineReducers({
   app
