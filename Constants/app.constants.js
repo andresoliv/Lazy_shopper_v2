@@ -1,0 +1,3 @@
+export const HANDLE_LIKE = 'HANDLE_LIKE';
+
+export const HANDLE_DISLIKE = 'HANDLE_DISLIKE';
